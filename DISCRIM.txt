@@ -1,0 +1,4 @@
+Input "A?",A
+Input "B?",B
+Input "C?",C
+B²-4AC

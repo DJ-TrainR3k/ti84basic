@@ -1,0 +1,57 @@
+ClrDraw
+Repeat 0
+randInt(⁻10,10)→A
+randInt(⁻10,10)→B
+randInt(⁻5,5)→C
+randInt(0,9)→D
+If D=0
+Then
+Circle(A,B,C,YELLOW)
+Else
+End
+If D=1
+Then
+Circle(A,B,C,BLUE)
+Else
+End
+If D=2
+Then
+Circle(A,B,C,RED)
+Else
+End
+If D=3
+Then
+Circle(A,B,C,BLACK)
+Else
+End
+If D=4
+Then
+Circle(A,B,C,MAGENTA)
+Else
+End
+If D=5
+Then
+Circle(A,B,C,GREEN)
+Else
+End
+If D=6
+Then
+Circle(A,B,C,ORANGE)
+Else
+End
+If D=7
+Then
+Circle(A,B,C,BROWN)
+Else
+End
+If D=8
+Then
+Circle(A,B,C,NAVY)
+Else
+End
+If D=9
+Then
+Circle(A,B,C,LTBLUE)
+Else
+End
+End

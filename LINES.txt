@@ -1,0 +1,58 @@
+ClrDraw
+Repeat 0
+randInt(⁻10,10)→A
+randInt(⁻10,10)→B
+randInt(⁻10,10)→C
+randInt(⁻10,10)→D
+randInt(0,9)→E
+If E=0
+Then
+Line(A,B,C,D,YELLOW)
+Else
+End
+If E=1
+Then
+Line(A,B,C,D,BLUE)
+Else
+End
+If E=2
+Then
+Line(A,B,C,D,RED)
+Else
+End
+If E=3
+Then
+Line(A,B,C,D,BLACK)
+Else
+End
+If E=4
+Then
+Line(A,B,C,D,MAGENTA)
+Else
+End
+If E=5
+Then
+Line(A,B,C,D,GREEN)
+Else
+End
+If E=6
+Then
+Line(A,B,C,D,ORANGE)
+Else
+End
+If E=7
+Then
+Line(A,B,C,D,BROWN)
+Else
+End
+If E=8
+Then
+Line(A,B,C,D,NAVY)
+Else
+End
+If E=9
+Then
+Line(A,B,C,D,LTBLUE)
+Else
+End
+End
