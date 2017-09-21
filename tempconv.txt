@@ -1,0 +1,18 @@
+Input "1 For F to C, 2 For C to F.",A
+If A<1
+Then
+Disp "INVALID INT."
+Else
+If A>2
+Then
+Disp "INVALID INT."
+Else
+Input "Temp?: ",B
+If A=1
+Then
+Disp (((B-32)*5)/9)
+Else
+If A=2
+Then
+Disp (((B*9)/5)+32)
+End
