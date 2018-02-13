@@ -1,0 +1,65 @@
+
+While 1
+randInt(1,11)→M
+If M=1
+Then
+Disp "JUST MONIKA"
+Else
+If M=2
+Then
+Disp " JUST MONIKA"
+Else
+If M=3
+Then
+Disp "  JUST MONIKA"
+Else
+If M=4
+Then
+Disp "   JUST MONIKA"
+Else
+If M=5
+Then
+Disp "    JUST MONIKA"
+Else
+If M=6
+Then
+Disp "     JUST MONIKA"
+Else
+If M=7
+Then
+Disp "      JUST MONIKA"
+Else
+If M=8
+Then
+Disp "       JUST MONIKA"
+Else
+If M=9
+Then
+Disp "        JUST MONIKA"
+Else
+If M=10
+Then
+Disp "         JUST MONIKA"
+Else
+If M=11
+Then
+randInt(1,5)→B
+If B=1
+Then
+Disp "³ᴇ!?]e^(}{"
+Else
+If B=2
+Then
+Disp " }[e]?L₅-[!{["
+Else
+If B=3
+Then
+Disp "  [e]?[i]{)[[e^("
+Else
+If B=4
+Then
+Disp "   ᴇ^]{[i])[e],{("
+Else
+If B=5
+Disp "    [i][e]?[>L₃)^(]"
+End
